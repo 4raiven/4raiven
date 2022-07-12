@@ -1,6 +1,3 @@
-# 4raiven.github.io
-Config files for my GitHub profile.
-
-
+### 4raiven.github.io
 ## Personal Website
-this is for studying purposes and just want to explore the free hosting of Github
+>This is for studying purposes and just want to explore the free hosting of Github
